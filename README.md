@@ -22,7 +22,7 @@ This repository stems from coursework in Computational Engineering (BVL) and dem
 * **Description:** Models the transient behavior of a CSTR. Solves coupled ordinary differential equations to track reactant concentration and conversion rates over time.
 
 ### 3. Multi-Component Distillation Column
-* **Files:** `Binary_Distillation_column_Model.py`, `DC_modelling_winner.py`, `Distillation_Column_Plots.png`
+* **Files:** `Binary_Distillation_column_Model.py`, `Distillation_Column_Plots.png`
 * **Description:** Simulates the steady-state temperature and composition profiles across the stages of a distillation column using rigorous mass and energy balance matrices.
 
 ### 4. Dynamic Model of a DC Motor
