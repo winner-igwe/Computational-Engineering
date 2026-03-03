@@ -7,14 +7,14 @@ This repository stems from coursework in Computational Engineering (BVL) and dem
 
 ## Technical Stack
 * **Language:** Python
-* **Libraries:** NumPy, SciPy (`scipy.integrate.odeint`), Matplotlib
+* **Libraries:** NumPy, SciPy, Matplotlib
 
 ## Core Simulation Modules
 
 ### 1. 2D Thermal Modeling (PDEs)
 * **Files:** `PDE_Thermal_Model.py`, `2D_Heat_Map_Evolution.gif`
 * **Description:** Solves the 2D heat equation using the Method of Lines to simulate the thermal behavior and heat dissipation of a multi-core processor. 
-* **Output:** *(Note: Display the GIF here to show the thermal evolution)*
+* **Output:** 
 ![2D Heat Map Evolution](2D_Heat_Map_Evolution.gif)
 
 ### 2. Continuous Stirred-Tank Reactor - CSTR (ODEs)
