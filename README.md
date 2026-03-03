@@ -25,5 +25,9 @@ This repository stems from coursework in Computational Engineering (BVL) and dem
 * **Files:** `Binary_Distillation_column_Model.py`, `DC_modelling_winner.py`, `Distillation_Column_Plots.png`
 * **Description:** Simulates the steady-state temperature and composition profiles across the stages of a distillation column using rigorous mass and energy balance matrices.
 
+### 4. Dynamic Model of a DC Motor
+* **Files:** `DC_modelling_winner.py`, `DC_Model_Plots.png`
+* **Description:** Simulates the transient behaviour of a DC Motor. Plots the armature current and angular velocity over time.
+  
 ## Context for Research
 Building these deterministic numerical models provided the mathematical foundation necessary for my current transition into Scientific Machine Learning and Physics-Informed Neural Networks (PINNs). Understanding how traditional solvers (like SciPy) handle physical constraints is critical for embedding those same constraints into AI loss functions.
